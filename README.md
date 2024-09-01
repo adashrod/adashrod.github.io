@@ -15,5 +15,8 @@ mazes.
 [Media Query Summarizer](https://adashrod.github.io/MediaQuerySummarizer)
 
 ```
-This page tests a series of media queries using <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia"><span class="code">matchMedia()</span></a>, then prints the results in a table. It's a handy way to see which media queries and values match on a device to get an idea of what specific values can be used to match that device.
+This page tests a series of media queries using [matchMedia()](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia),
+then prints the results in a table. It's a handy way to see
+which media queries and values match on a device to get an
+idea of what specific values can be used to match that device.
 ```
