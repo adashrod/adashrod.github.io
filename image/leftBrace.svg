@@ -19,7 +19,7 @@
         />
     </defs>
     <path
-        style="font-size:64px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;white-space:pre;stroke:#000000"
+        style="font-size:64px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;white-space:pre;stroke:#8b0000;fill:#8b0000;fill-opacity:1;stroke-opacity:1"
         d="M 22.4,70.784 Q 16.768,70.656 14.272,68.928 11.84,67.2 11.84,61.824 V 50.496 q 0,-3.328 -1.152,-4.8 Q 9.6,44.224 6.4,43.2 q 3.2,-0.96 4.288,-2.432 1.152,-1.472 1.152,-4.8 V 24.576 q 0,-2.816 0.64,-4.544 0.64,-1.792 2.112,-2.688 1.472,-0.96 3.2,-1.28 1.792,-0.32 4.608,-0.384 v 0.704 q -3.328,0.832 -4.608,2.56 -1.216,1.728 -1.216,5.312 v 10.752 q 0,3.968 -1.216,5.632 -1.216,1.664 -4.8,2.624 3.584,0.896 4.8,2.56 1.216,1.664 1.216,5.632 v 10.752 q 0,3.584 1.216,5.312 1.28,1.728 4.608,2.56 z"
         id="text1"
         transform="matrix(0.46809065,0,0,0.45259383,49.770138,130.07851)"
